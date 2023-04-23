@@ -1,3 +1,7 @@
 Welcome to git
 Made some changes
+<<<<<<< HEAD
 I made some changes
+=======
+
+>>>>>>> 17cc6d1e476902eb47971adc32a7d8d1eb5e969b
